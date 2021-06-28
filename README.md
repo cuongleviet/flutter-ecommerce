@@ -27,7 +27,6 @@ Build a Flutter-ecommerce with 4 screen:
 - Cloud Storage
 
 ### Bonus
-- Mobile view of front pages.
 - UX optimization.
 
 ## Submit the assignment
