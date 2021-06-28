@@ -9,7 +9,7 @@ https://docs.google.com/spreadsheets/d/1pvIE602rP4BGtg_RIdwvjzQDuKEQ1CK6H068cw2_
 ## The task
 Build a Flutter-ecommerce with 4 screen:
 
-- **Login** is a list only visible products and has the ability to add products to Shopping Cart. 
+- **Login** is login screen. 
 - **Product List** is the display product list.
 - **Cart view** is a CRUD interface for Shopping Cart.
 - **Admin view** is a CRUD interface where admins (or anyone who click on that link) can create, list, modify products.
